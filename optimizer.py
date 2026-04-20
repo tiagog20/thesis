@@ -21,7 +21,7 @@ from ortools.constraint_solver import pywrapcp, routing_enums_pb2
 from box_optimizer import load_boxes_catalog_from_jsonl, optimize_vehicle_loading_from_catalog
 
 
-GOOGLE_API_KEY = "AIzaSyBOxEg5fYSk-2QvAqEFHNQwDptfndN0VgA"
+GOOGLE_API_KEY = "XXXXXXXXXX" # Enter your Google Maps API here. Charges will be applied 
 
 HUB = {
     "name": "Hub BoxScan",
