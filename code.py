@@ -28,7 +28,7 @@ ARUCO_REAL_SIZE_CM = 5.0
 MIN_BOX_AREA = 5000
 CSV_FILE = "boxes.csv"
 JSONL_FILE = "boxes.jsonl"
-GOOGLE_API_KEY = "AIzaSyBOxEg5fYSk-2QvAqEFHNQwDptfndN0VgA"
+GOOGLE_API_KEY = "XXXXXXXX" #Enter your Google Maps API. Charges will be applied.
 
 latest_result = {
     "status": "starting",
