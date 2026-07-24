@@ -1,4 +1,4 @@
-# 📦 BoxScan
+# 📦 BoxScam
 
 AI-powered **last-mile delivery optimization system** for small courier operations in Medellín.
 Combines **route optimization**, **3D cargo loading**, and **computer vision-based package measurement** into a single deployable web application.
